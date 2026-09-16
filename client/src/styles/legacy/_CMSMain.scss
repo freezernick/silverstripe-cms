@@ -107,12 +107,7 @@
 
     &.view-controls--treeview a[data-view="treeview"],
     &.view-controls--listview a[data-view="listview"] {
-      padding: 0;
-
-      .font-icon-tree,
-      .font-icon-list {
-        display: none;
-      }
+      display: none;
     }
   }
 
